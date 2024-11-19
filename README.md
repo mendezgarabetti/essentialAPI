@@ -232,4 +232,3 @@ if __name__ == '__main__':
 2. [SQLAlchemy](https://docs.sqlalchemy.org/)
 3. [Postman](https://www.postman.com/)
 
-¡Disfruta aprendiendo y construyendo tu API! 🚀
